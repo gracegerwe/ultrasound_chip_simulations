@@ -83,4 +83,7 @@ print(f"Focal Depth: {focal_depth:.3f} m")
 
 ---
 
+### Credits
+This project includes components from a GitHub library that was under the MIT license for modeling pMUTs which I have since not been able to find! If you are the owner, please let me know if you took it down so that I can credit you properly.
+
 Enjoy designing your pMUT arrays and simulating focused ultrasound fields! 🎉
